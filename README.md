@@ -1,1 +1,1 @@
-winshirelendhttps://test-ind-api.fyinformation.ccPhantomAssassin
+winshirelendhttps://api.shireagenwin.icuPhantomAssassin
